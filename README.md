@@ -6,7 +6,7 @@ A quiet Google Chrome theme inspired by *Girl Reading* (1909) by American painte
 
 - **Name:** Girl Reading - Ethy
 - **Type:** Google Chrome theme
-- **Version:** 1.0.0
+- **Version:** 1.0.2
 - **Creator:** Ethy
 - **Artwork:** *Girl Reading* (1909), Edmund C. Tarbell
 - **New Tab background:** 2560 x 1440
