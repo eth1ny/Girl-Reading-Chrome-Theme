@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Girl Reading \u2014 Ethy",
-  "version": "1.0.0",
+  "name": "Girl Reading - Ethy",
+  "version": "1.0.2",
   "description": "A quiet Chrome theme inspired by Girl Reading (1909) by Edmund C. Tarbell.",
   "theme": {
     "images": {
