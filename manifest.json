@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Girl Reading \u2014 Ethy",
+  "version": "1.0.0",
+  "description": "A quiet Chrome theme inspired by Girl Reading (1909) by Edmund C. Tarbell.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/girl-reading.png"
+    },
+    "colors": {
+      "frame": [96, 83, 52],
+      "frame_inactive": [96, 83, 52],
+      "background_tab": [96, 83, 52],
+      "background_tab_inactive": [106, 89, 55],
+      "bookmark_text": [36, 31, 23],
+      "tab_text": [36, 31, 23],
+      "tab_background_text": [237, 226, 207],
+      "tab_background_text_inactive": [223, 210, 185],
+      "toolbar": [183, 157, 109],
+      "toolbar_text": [36, 31, 23],
+      "toolbar_button_icon": [36, 31, 23],
+      "omnibox_background": [210, 197, 168],
+      "omnibox_text": [36, 31, 23],
+      "ntp_background": [96, 83, 52],
+      "ntp_header": [183, 157, 109],
+      "ntp_link": [216, 193, 151],
+      "ntp_text": [237, 226, 207]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
