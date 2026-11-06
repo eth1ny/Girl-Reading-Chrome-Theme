@@ -1,0 +1,13 @@
+# Chrome Web Store packages and generated build output
+*.zip
+/dist/
+/Cached Theme.pak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
